@@ -1,0 +1,26 @@
+body {
+    background-image: url(../images/steel-background.jfif);
+    font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+    color: white;
+}
+
+#header-text {
+    position: absolute;
+    left: 85vh;
+    font-size: 75px;
+}
+
+#info {
+    position: absolute;
+    left: 95vh;
+    top: 25vh;
+}
+
+a {
+    color: inherit;
+    text-decoration: none;
+}
+
+tr {
+    background: url(../images/hr.png);
+}
