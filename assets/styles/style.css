@@ -1,19 +1,8 @@
 body {
-    background-image: url(../images/steel-background.jfif);
-    font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
-    color: white;
-}
-
-#header-text {
-    position: absolute;
-    left: 85vh;
-    font-size: 75px;
-}
-
-#info {
-    position: absolute;
-    left: 95vh;
-    top: 25vh;
+    background-color: #f0f0f2;
+    margin: 0;
+    padding: 0;
+    font-family: -apple-system, system-ui, BlinkMacSystemFont, "Segoe UI", "Open Sans", "Helvetica Neue", Helvetica, Arial, sans-serif;
 }
 
 a {
@@ -23,4 +12,13 @@ a {
 
 tr {
     background: url(../images/hr.png);
+}
+
+#page {
+    width: 600px;
+    margin: 5em auto;
+    padding: 2em;
+    background-color: #fdfdff;
+    border-radius: 0.5em;
+    box-shadow: 2px 3px 7px 2px rgba(0,0,0,0.02);
 }
