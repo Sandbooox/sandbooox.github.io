@@ -1,2 +1,2 @@
 # sandbooox.github.io
-Hi!
+sandbooox.github.io
