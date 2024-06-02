@@ -22,3 +22,16 @@ tr {
     border-radius: 0.5em;
     box-shadow: 2px 3px 7px 2px rgba(0,0,0,0.02);
 }
+
+.icons {
+    width: 25px;
+    height: 25px;
+}
+
+img {
+    transition: transform 0.2s;
+}
+
+img:hover {
+    transform: scale(1.1);
+}
