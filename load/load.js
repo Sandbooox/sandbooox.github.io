@@ -26,11 +26,14 @@ const htmlContent = `
         </div>
         <hr>
         <h1>Email</h1>
-        <a href="mailto:Hello@sandbooox.github.io">Send Email to Hello@sandbooox.github.io</a>
+        <a href="mailto:Hello@sandbooox.github.io">Send Email to sandboox235@gmail.com</a>
         <hr>
     </div>
     <title>Sandbox</title>
     <a href="https://sandbooox.github.io/Privacy-Policy">Privacy Policy</a>
+    <div id="credits">
+        <p>Sandbooox.github.io Copyright © 2024 all rights reserved</p>
+    </div>
 </div>
 `;
 
