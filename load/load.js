@@ -26,7 +26,7 @@ const htmlContent = `
         </div>
         <hr>
         <h1>Email</h1>
-        <a href="mailto:Hello@sandbooox.github.io">Send Email to sandboox235@gmail.com</a>
+        <a href="mailto:sandboox235@gmail.com">Send Email to sandboox235@gmail.com</a>
         <hr>
     </div>
     <title>Sandbox</title>
