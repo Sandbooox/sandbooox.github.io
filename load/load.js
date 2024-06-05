@@ -4,6 +4,7 @@ const htmlContent = `
     <h1>Sandbox</h1>
     <div id="info">
         <p>Welcome to the page! 🎉</p>
+        <a href="all-pages">List of All pages<a>
         <hr>
         <a href="https://clustrmaps.com/site/1bztp" title="Visit tracker">
             <img src="https://www.clustrmaps.com/map_v2.png?d=Pz3fNb4ZrJszMt5Y1k9POeW_G7mRjpPYnN_4aMSCc88&amp;cl=ffffff">
